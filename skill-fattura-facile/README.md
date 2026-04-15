@@ -2,7 +2,7 @@
 
 **Fatture elettroniche italiane conformi allo SDI in 30 secondi.**
 
-Genera fatture in formato XML FatturaPA 1.2.2 e HTML leggibile — con calcolo automatico di IVA, ritenuta d'acconto, bollo e cassa previdenziale.
+Genera fatture in formato XML FatturaPA 1.2.2 e HTML leggibile — con calcolo automatico di IVA, ritenuta d’acconto, bollo e cassa previdenziale.
 
 ---
 
@@ -27,7 +27,7 @@ Claude: Genera XML FatturaPA completo + versione HTML + calcoli dettagliati
 
 ## Normativa inclusa
 
-Tutta la normativa fiscale italiana aggiornata al 2026.
+Tutta la normativa fiscale italiana aggiornata al 2026: aliquote IVA, codici Natura (N1-N7), tipi documento (TD01-TD28), regimi fiscali (RF01-RF19), casse previdenziali, modalità pagamento, regole bollo virtuale.
 
 ## Pricing
 
@@ -37,6 +37,10 @@ Tutta la normativa fiscale italiana aggiornata al 2026.
 👉 Try the [LITE version](../skills/fattura-facile-lite/) for free before buying.
 
 Or get all 5 skills for €99 in the [Italian Business Suite Bundle](https://lorenzonexus.gumroad.com/l/gzyvs)
+
+## Per chi è
+
+Freelance, consulenti, professionisti e PMI italiane che vogliono generare fatture elettroniche senza software costosi.
 
 ## Autore
 
